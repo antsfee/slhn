@@ -1,0 +1,33 @@
+
+<abbr> --- 缩写 <abbr title="Copyright">@c.</abbr>
+
+<b>  ---纯样式 粗体 没有 <strong> 的样式和权重意义
+
+<acronym>  -- 标签用于 简写   <acronym title="World Wide Web">WWW</acronym>
+
+<blockquote> -- 定义标签定义块引用
+
+<cite>  ---   <cite>《富春山居图》</cite>由黄公望始画于至正七年(1347)，于至正十年完成。 定义作品，艺术品，雕塑，电影 标题  人名不属于标题
+
+<em>	呈现为被强调的文本。
+<strong>	定义重要的文本。
+<dfn>	定义一个定义项目。
+<code>	定义计算机代码文本。
+<samp>	定义样本文本。
+<kbd>	定义键盘文本。它表示文本是从键盘上键入的。它经常用在与计算机相关的文档或手册中。
+<var>	定义变量。您可以将此标签与 <pre> 及 <code> 标签配合使用。
+<cite>	定义引用。可使用该标签对参考文献的引用进行定义，比如书籍或杂志的标题。
+<i>  定义标签呈现斜体的文本
+<pre> 可定义预格式化的文本（被包围内容通常会保留空格和换行符，且呈现等宽体）
+<q> 定义短引用，浏览器会在引用周围车插入引号
+
+<sub> 可定义下表文本  <sup>可定义上标文本
+
+
+<summary> 标签包含 details 元素的标题，"details" 元素用于描述有关文档或文档片段的详细信息。
+<details>
+<summary>HTML 5</summary>
+This document teaches you everything you have to learn about HTML 5.
+</details>
+
+<track>  定义video元素之类的媒介规定外部文本轨道

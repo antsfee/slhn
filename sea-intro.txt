@@ -1,0 +1,3 @@
+<script src="sea.js" data=main="../app.js" ></script>
+
+seajs  通过 data-main  定义js进入脚本
